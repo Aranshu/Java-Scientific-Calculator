@@ -11,10 +11,10 @@
 
 ### Loading Page
 <p align="center">
-    <img src="")
+    <img src="https://github.com/Aranshu/Scientific-Calculator-Java/blob/master/Images/Home%20Page.PNG?raw=true")
 </p>
 
 ### Home Page
 <p align="center">
-    <img src="")
+    <img src="https://github.com/Aranshu/Scientific-Calculator-Java/blob/master/Images/Loading.PNG?raw=true")
 </p>
