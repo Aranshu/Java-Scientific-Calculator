@@ -9,12 +9,12 @@
 |`bin`                | Contain Class File
 |`src`                | Contain Main Java File
 
-### Loading Page
+### Home Page
 <p align="center">
     <img src="https://github.com/Aranshu/Scientific-Calculator-Java/blob/master/Images/Home%20Page.PNG?raw=true")
 </p>
 
-### Home Page
+### Loading Page
 <p align="center">
     <img src="https://github.com/Aranshu/Scientific-Calculator-Java/blob/master/Images/Loading.PNG?raw=true")
 </p>
